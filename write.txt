@@ -1,0 +1,7 @@
+/Hello from inside
+/Ali from inside
+ali
+asdAliiiiiiiiiiii2024-03-30 03:59:42,392 | root | WARNING | this message warning 
+2024-03-30 03:59:44,835 | root | WARNING | this message warning 
+2024-03-30 04:01:32,410 | root | WARNING | this message warning 
+2024-03-30 04:01:32,410 | root | ERROR | this message warning 
